@@ -1,5 +1,9 @@
-angular.module('starter.controllers', [])
+var bmi = angular.module('starter.controllers', [])
 
-.controller('AboutController', function () {
+bmi.controller('AboutController', function () {
+
+});
+
+bmi.controller('BmiController', function() {
 
 });
